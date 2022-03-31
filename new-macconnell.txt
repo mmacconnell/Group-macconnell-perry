@@ -1,2 +1,5 @@
-here is a new file for the repository
+# Weekend Plans
+* groceries
+* laundry
+* eat fried food
 
